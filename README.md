@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="Estante geek con ocarina y héroe anime.png" width="100%" alt="Banner Dodo-86">
+  <img src="Banner.png" width="100%" alt="Banner Dodo-86">
 </p>
